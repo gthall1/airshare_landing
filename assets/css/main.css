@@ -4472,11 +4472,11 @@
 		visibility: visible;
 	}
 
-	/*
-	Relativity by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-	*/
+
+
+
+
+
 
 	.secondheader {
 		color: #fff;
@@ -4751,8 +4751,21 @@
 	margin-bottom: 50px;
 }
 
+.floorspace {
+	padding-bottom: 50px;
+}
 
+.piccover {
+    -moz-object-fit: contain !important;
+    -webkit-object-fit: contain !important;
+    -ms-object-fit: contain !important;
+    object-fit: contain !important;
+    height: 120% !important;
+}
 
+.hiwimage {
+	width: 60% !important;
+}
 
 
 
