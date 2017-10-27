@@ -1865,7 +1865,7 @@
 	}
 
 		a:hover {
-			color: #3dc5ad !important;
+			color: #4A90E2 !important;
 		}
 
 	strong, b {
@@ -2050,7 +2050,7 @@
 		button:hover,
 		.button:hover {
 			background-color: #51cbb5;
-			color: #ffffff !important;
+			color: #4A90E2 !important;
 		}
 
 		input[type="submit"]:active,
@@ -4087,10 +4087,10 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/watermark.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/watermark.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/watermark.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/watermark.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.99)), url("../../images/new_bg.jpg");
 		background-size: cover;
 		/* background-attachment: fixed; */
 		background-position: center;
@@ -4110,7 +4110,7 @@
 			transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 			padding: 2.75rem;
 			width: 100%;
-			text-align: center;
+			/* text-align: center; */
 			position: relative;
 			z-index: 1;
 			margin-top: 2rem;
@@ -4713,6 +4713,58 @@
 	    box-shadow: inset 0 0 0 2px rgba(74, 144, 226, 0.95) !important;
 	    color: #4A90E2 !important;
 	}
+
+
+#header > nav > ul > li > a:hover {
+	color: #4A90E2 !important;
+}
+
+.blue:hover {
+	color: #4A90E2 !important;
+}
+
+.bannerstuff {
+	display: inline-block;
+}
+
+.rightone {
+	float: right;
+}
+
+.bannerheader {
+	color: #fff;
+    font-size: 64px;
+    text-align: left;
+}
+
+.bannerp {
+	color: #fff;
+	width: 80%;
+}
+
+.secondcontent {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.backup {
+	margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
