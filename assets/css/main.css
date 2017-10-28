@@ -4760,11 +4760,16 @@
     -webkit-object-fit: contain !important;
     -ms-object-fit: contain !important;
     object-fit: contain !important;
-    height: 120% !important;
+
 }
 
 .hiwimage {
 	width: 60% !important;
+}
+
+.forbiz {
+	color: #4A90E2;
+	border-bottom: none;
 }
 
 
