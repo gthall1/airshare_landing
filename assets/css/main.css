@@ -4922,14 +4922,22 @@
 
 
 @media screen and (min-width: 1550px) {
-    .
+    .littlebigger {
+    	max-width: 70rem !important;
+    }
+
+    .hundo	{
+    	width: 100%;
+    }
 
 
 
 }
 
 @media screen and (min-width: 1800px) {
-    .
+    .banleft {
+    	padding-left: 50px;
+    }
 
 
 }
