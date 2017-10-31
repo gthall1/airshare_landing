@@ -1869,7 +1869,7 @@
 		}
 
 	strong, b {
-		color: #3f3f3f;
+		color: #fff;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -4592,7 +4592,7 @@
 	    -o-transform: scale(1.2);
 	    -ms-transform: scale(1.2);
 	    transform: scale(1.2);
-	    cursor: pointer;
+	    /* cursor: pointer; */
 	 
 	    -webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
 	    -moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
@@ -4781,7 +4781,10 @@
 	margin-top: 50px;
 }
 
-
+#desktop {
+	padding-top: 4rem;
+	padding-bottom: 4rem !important;
+}
 
 
 
