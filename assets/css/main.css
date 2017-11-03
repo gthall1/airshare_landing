@@ -4806,6 +4806,33 @@
 	background-color: #1c1c1c !important;
 }
 
+.terms {
+	color: #6F6E6E;
+	font-size: 14px;
+}
+
+.newbluesub {
+    font-weight: 600;
+    display: block;
+    margin: 0 0 0.35rem 0;
+    color: #4A90E2;
+}
+
+.leftside {
+	text-align: left !important;
+    margin-left: 100px;
+    margin-top: -815px;
+}
+
+.noleft {
+	margin-left: 0;
+	width: 85%;
+}
+
+.littleroom {
+	margin-bottom: 50px;
+}
+
 
 /* responsive review */
 
@@ -4826,6 +4853,27 @@
 		width: 100%;
 	}
 
+	.putonright {
+		width: 60%;
+	}
+
+	#screens {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	.leftside {
+		margin-left: 50px;
+	}
+
+	.whitehead {
+		width: 70%;
+	}
+
+	.noleft {
+		width: 75%;
+	}
+
 
 }
 
@@ -4834,6 +4882,14 @@
 	.padpro {
 		width: 90%;
 		margin-top: 100px;
+	}
+
+	#screens {
+		padding-bottom: 20px !important;
+	}
+
+	.leftside {
+		margin-top: -700px;
 	}
 
 
@@ -4850,6 +4906,14 @@
 
 	.padpro {
 		margin-top: -50px;
+	}
+
+	.leftside {
+		margin-top: -185px;
+	}
+
+	.putonright {
+		width: 100%;
 	}
 
 
@@ -4919,6 +4983,12 @@
 		width: 100%;
 	}
 
+	.leftside {
+		margin-top: -125px;
+		margin-left: 35px;
+
+	}
+
 }
 
 @media screen and (max-width: 380px) {
@@ -4932,6 +5002,10 @@
 @media screen and (max-width: 350px) {
 	.bannerheader {
 		font-size: 30px;
+	}
+
+	.leftside {
+		margin-top: -90px;
 	}
 
 
@@ -4974,32 +5048,7 @@
 
 }
 
-.terms {
-	color: #6F6E6E;
-	font-size: 14px;
-}
 
-.newbluesub {
-    font-weight: 600;
-    display: block;
-    margin: 0 0 0.35rem 0;
-    color: #4A90E2;
-}
-
-.leftside {
-	text-align: left !important;
-    margin-left: 100px;
-    margin-top: -815px;
-}
-
-.noleft {
-	margin-left: 0;
-	width: 85%;
-}
-
-.littleroom {
-	margin-bottom: 50px;
-}
 
 
 
