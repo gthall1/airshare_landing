@@ -4979,6 +4979,23 @@
 	font-size: 14px;
 }
 
+.newbluesub {
+    font-weight: 600;
+    display: block;
+    margin: 0 0 0.35rem 0;
+    color: #4A90E2;
+}
+
+.leftside {
+	text-align: left !important;
+    margin-left: 4rem;
+    margin-top: -725px;
+}
+
+.noleft {
+	margin-left: 0;
+}
+
 
 
 
