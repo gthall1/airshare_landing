@@ -4988,12 +4988,17 @@
 
 .leftside {
 	text-align: left !important;
-    margin-left: 220px;
-    margin-top: -725px;
+    margin-left: 100px;
+    margin-top: -815px;
 }
 
 .noleft {
 	margin-left: 0;
+	width: 85%;
+}
+
+.littleroom {
+	margin-bottom: 50px;
 }
 
 
