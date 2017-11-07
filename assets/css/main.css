@@ -4833,6 +4833,14 @@
 	margin-bottom: 50px;
 }
 
+.comingsoon {
+    display: block !important;
+    color: #fff;
+    font-size: 12px;
+    padding-left: 16px !important;
+    padding-top: 10px !important;
+}
+
 
 /* responsive review */
 
@@ -4987,6 +4995,11 @@
 		margin-top: -125px;
 		margin-left: 35px;
 
+	}
+
+	.comingsoon2 {
+	    padding-left: 0 !important;
+	    margin-left: -12px;
 	}
 
 }
