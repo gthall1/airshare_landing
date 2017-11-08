@@ -4874,6 +4874,11 @@ input, textarea, select, a { outline: none !important; }
 	text-transform: none;
 }
 
+.wayleft {
+	padding-left: 0;
+	margin-left: -32px;
+}
+
 
 @media screen and (max-width: 1280px) {
 
