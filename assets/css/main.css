@@ -4843,6 +4843,10 @@
 
 input, textarea, select, a { outline: none !important; }
 
+.legal {
+	margin-bottom: 10px;
+}
+
 
 /* responsive review */
 
