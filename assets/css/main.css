@@ -5034,6 +5034,10 @@ input, textarea, select, a { outline: none !important; }
 		min-height: 460px;
 	}
 
+	.lottaroom {
+	margin-bottom: 75px;
+}
+
 }
 
 @media screen and (max-width: 380px) {
