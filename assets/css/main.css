@@ -4906,6 +4906,10 @@ input, textarea, select, a { outline: none !important; }
 		margin-top: -700px;
 	}
 
+	.mainlegal {
+		min-height: 1060px;
+	}
+
 
 }
 
@@ -4928,6 +4932,10 @@ input, textarea, select, a { outline: none !important; }
 
 	.putonright {
 		width: 100%;
+	}
+
+	.mainlegal {
+		min-height: 715px;
 	}
 
 
@@ -5006,6 +5014,10 @@ input, textarea, select, a { outline: none !important; }
 	.comingsoon2 {
 	    padding-left: 0 !important;
 	    margin-left: -12px;
+	}
+
+	.mainlegal {
+		min-height: 460px;
 	}
 
 }
