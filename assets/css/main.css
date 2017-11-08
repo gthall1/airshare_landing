@@ -4847,6 +4847,20 @@ input, textarea, select, a { outline: none !important; }
 	margin-bottom: 10px;
 }
 
+.marginblock {
+	display: block;
+	margin: auto;
+}
+
+.lottaroom {
+	margin-bottom: 100px;
+}
+
+
+
+
+
+
 
 /* responsive review */
 
