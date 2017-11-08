@@ -4850,6 +4850,7 @@ input, textarea, select, a { outline: none !important; }
 .marginblock {
 	display: block;
 	margin: auto;
+	text-align: left;
 }
 
 .lottaroom {
