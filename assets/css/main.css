@@ -4857,6 +4857,11 @@ input, textarea, select, a { outline: none !important; }
 	margin-bottom: 100px;
 }
 
+.videolink {
+	color: #fff;
+	margin-bottom: 30px;
+}
+
 
 
 
@@ -5046,7 +5051,11 @@ input, textarea, select, a { outline: none !important; }
 
 	.lottaroom {
 	margin-bottom: 75px;
-}
+	}
+
+	.videolink {
+		text-align: center;
+	}
 
 }
 
