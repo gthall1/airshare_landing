@@ -4862,6 +4862,10 @@ input, textarea, select, a { outline: none !important; }
 	margin-bottom: 30px;
 }
 
+.lity-container {
+	border: solid 2px #B2B2B2;
+}
+
 
 
 
