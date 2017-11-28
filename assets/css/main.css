@@ -4686,27 +4686,27 @@
 	 
 	@keyframes "bannermove" {
 	 0% {margin-left: 0px;}
-	 100% {margin-left: -2130px;}
+	 100% {margin-left: -3500px;}
 	}
 	 
 	@-moz-keyframes bannermove {
 	 0% {margin-left: 0px;}
-	 100% {margin-left: -2130px;}
+	 100% {margin-left: -3500px;}
 	}
 	 
 	@-webkit-keyframes "bannermove" {
 	 0% {margin-left: 0px;}
-	 100% {margin-left: -2130px;}
+	 100% {margin-left: -3500px;}
 	}
 	 
 	@-ms-keyframes "bannermove" {
 	 0% {margin-left: 0px;}
-	 100% {margin-left: -2130px;}
+	 100% {margin-left: -3500px;}
 	}
 	 
 	@-o-keyframes "bannermove" {
 	 0% {margin-left: 0px;}
-	 100% {margin-left: -2130px;}
+	 100% {margin-left: -3500px;}
 	}
 
 
